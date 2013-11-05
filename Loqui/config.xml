@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="http://waalt.com/Loqui" version="0.2.1" viewmodes="maximized">
+    <access origin="*" subdomains="true"/>
+    <tizen:application id="6KZ69mjYPT.Loqui" package="6KZ69mjYPT" required_version="2.2"/>
+    <content src="index.html"/>
+    <icon src="icon.png"/>
+    <name>Loqui</name>
+    <tizen:privilege name="http://tizen.org/privilege/application.launch"/>
+    <tizen:privilege name="http://tizen.org/privilege/alarm"/>
+    <tizen:privilege name="http://tizen.org/privilege/location"/>
+    <tizen:privilege name="http://tizen.org/privilege/notification"/>  
+
+	 
+
+	 
+	 
+ 
+</widget>
